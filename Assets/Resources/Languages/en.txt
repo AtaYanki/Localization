@@ -1,0 +1,8 @@
+LANGUAGE=Language
+EN=English
+TR=Turkish
+HI=Hi {name}
+NICE=Nice
+GOOD=Good
+BAD=Bad
+CHANGETEXT=Change text

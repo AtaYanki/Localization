@@ -1,0 +1,8 @@
+LANGUAGE=Dil
+EN=İngilizce
+TR=Türkçe
+HI=Merhaba {name}
+NICE=Güzel
+GOOD=İyi
+BAD=Kötü
+CHANGETEXT=Metni değiştir
