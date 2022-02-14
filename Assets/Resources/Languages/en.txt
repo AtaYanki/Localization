@@ -6,3 +6,4 @@ NICE=Nice
 GOOD=Good
 BAD=Bad
 CHANGETEXT=Change text
+CHANGEADDITION=Change translation addition text

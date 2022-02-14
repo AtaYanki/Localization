@@ -1,6 +1,6 @@
 using System.Collections.Generic;
+using Language_Scripts;
 using UnityEngine;
-using UnityEngine.UI;
 
 //This is test script for text change in runtime.The important place is line 20.
 public class RuntimeChangeText : MonoBehaviour

@@ -6,3 +6,4 @@ NICE=Güzel
 GOOD=İyi
 BAD=Kötü
 CHANGETEXT=Metni değiştir
+CHANGEADDITION=Çeviri ek metnini değiştir
